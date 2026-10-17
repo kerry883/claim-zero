@@ -45,7 +45,7 @@ function App() {
 
       {/* Supporting value statement. */}
       <p className="tagline">
-        Self Paced | 2 Hours | Get your certificate at the end 
+        Testing if pipeline is working very well
       </p>
 
     </div>
